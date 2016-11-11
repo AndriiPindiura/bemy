@@ -1,8 +1,8 @@
 import React from 'react';
 import { Route, IndexRoute } from 'react-router';
-import App from '../../src/client/containers/App';
-import Main from '../../src/client/containers/Main';
-import Qwerty from '../../src/client/containers/Qwerty';
+import App from './containers/App';
+import Main from './containers/Main';
+import Qwerty from './containers/Qwerty';
 
 
 export default (store) => {

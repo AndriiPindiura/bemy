@@ -3,8 +3,8 @@ import { renderToString } from 'react-dom/server';
 import { createMemoryHistory, match, RouterContext } from 'react-router';
 import { Provider } from 'react-redux';
 
-import buildRouting from '../client/routes';
-import configureStore from '../client/redux/configureStore';
+import buildRouting from './routes';
+import configureStore from './redux/configureStore';
 import template from './template';
 
 export default (url) => {
