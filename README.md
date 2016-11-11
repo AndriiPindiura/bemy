@@ -22,6 +22,14 @@ Motivated by:
 
 [How to get req.user in /auth/callback](https://github.com/AndriiPindiura/ap.react-redux-loopback/commit/9f45a136c1d553ab5afd73cf9d9cc94e543eae26)
 
+## Universal(isomorphic)
+
+Motivated by:
+* [How to Implement Node + React Isomorphic JavaScript & Why it Matters](https://strongloop.com/strongblog/node-js-react-isomorphic-javascript-why-it-matters/)
+* [Webpack backend](http://jlongster.com/Backend-Apps-with-Webpack--Part-I)
+* [reactGo](https://github.com/reactGo/reactGo)
+* [Fix window is not defined in server rendering](https://github.com/webpack/css-loader/issues/270)
+
 ## Client
 
 Client side was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
