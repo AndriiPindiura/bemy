@@ -32,6 +32,7 @@ Motivated by:
 * [reactGo](https://github.com/reactGo/reactGo)
 * [Fix window is not defined in server rendering](https://github.com/webpack/css-loader/issues/270)
 * [Isomorphic Webpack proxy](https://github.com/damassi/loopback-isomorphic-react-example)
+* [Start your own JavaScript library using webpack and ES6](http://krasimirtsonev.com/blog/article/javascript-library-starter-using-webpack-es6)
 
 ## Client
 
