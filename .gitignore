@@ -20,6 +20,7 @@ node_modules
 npm-debug.log
 client
 !client/README.md
+!src/client
 bin
 server/*.local.json
 ap.react
